@@ -1,2 +1,2 @@
 # FacialExpressionRecognization
-Facial Expression Recognization by QNN 
+Facial Expression Recognization by QKNN 
